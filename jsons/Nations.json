@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Overwatch",
+		"leaderName": "Winston",
+		"adjective": ["monkey"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hey there its me, winton",
+		"startIntroPart2": "Somebody has to do something about this, We have to do something about this",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We'll show you no mercy, hah, get it",
+		"attacked": "Youre just like null sector",
+		"defeated": "Nooo, not the peanut butter",
+		"introduction": "Winton",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Oh, hey there",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["We absolutely refuse.","No!","Im sorry but i refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "Ugh, you again",
+		"hateLetsHearIt": ["grr","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "You're on the right side or history now",
+		"tradeRequest": "Our factions will thrive",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [58,109,161],
+		"innerColor": [229,240,250],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["Watchpoint Gibraltar","Route 66","Illios","Eichenwalde","New Queens Street","Paraiso","Kings Row","Nepal","Shambali Monastery",
+			"Watchpoint Antartica","Esperansa","Dorado","Junkertown","New Junk City","Honomura","Temple of Anubis","Suravasa","Aatlis","Hollywood",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"Paris","Midtown","Busan","Runasapi","Oasis","Black Forest"]
 	}
 ]
